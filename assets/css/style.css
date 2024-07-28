@@ -272,7 +272,7 @@ header {
 
 .before-img::before {
   content: "";
-  background-image: url("/assets/media/Bitmap.png");
+  background-image: url("../media/Bitmap.png");
   background-repeat: no-repeat;
   position: absolute;
   display: block;
@@ -284,7 +284,7 @@ header {
 }
 .two-dot-img::after {
   content: "";
-  background-image: url("/assets/media/two-dot-img.png");
+  background-image: url("../media/two-dot-img.png");
   background-repeat: no-repeat;
   position: absolute;
   display: block;
